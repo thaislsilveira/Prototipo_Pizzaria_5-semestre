@@ -239,7 +239,7 @@ background: #717075;
 
   #main-nav.navbar-default .navbar-nav > li.open > a,
   #main-nav.navbar-default .navbar-nav > li:hover > a {
-    background: rgb(243, 49, 49);;
+    background: rgb(243, 49, 49);
     color: #FFF;
 }
   #main-nav.navbar-default .dropdown-menu {
